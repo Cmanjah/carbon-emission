@@ -1,0 +1,29 @@
+Summary
+CO₂ emissions; CO₂ direct and indirect emissions per unit of output by industry and by country. CO₂ emissions by industry, in aggregate terms and in terms of output by industry.
+
+Annual country-level estimates for 66 countries for the three indicators are presented by the industry for 45 industries, for the years 1995-2018.
+
+CO₂ emissions from fuel consumption are in millions of metric tons of CO₂.
+CO₂ emissions intensities are in metric tons of CO₂ emissions per $1 million USD of output.
+CO₂ emissions multipliers are in metric tons of CO₂ emissions per $1 million USD of output.
+
+Category: Economic Activity Indicators
+
+Data series:
+CO2 emissions
+CO2 emissions intensities
+CO2 emissions multipliers
+Metadata:
+
+Input-Output tables and Carbon Emissions for 66 Countries and 45 industries have been taken from the OECD’s compilation of indicators on “Carbon dioxide emissions embodied in international trade” (2021 ed.) which combines the Input-Output Database and Trade in embodied CO₂ (TeCO2) Database.
+In this release of TeCO2 sourced from OECD, emissions from fuels used for international aviation and maritime transport (i.e. aviation and marine bunkers) are also considered.
+The data series “CO₂ emissions, emission intensities; emission multipliers” was earlier referred to as “Carbon emissions from fuel combustion per unit of output” in the previous vintage of the Climate Change Indicator Dashboard.
+
+
+Methodology:
+
+CO₂ emission intensities are calculated by dividing the CO₂ emissions from fuel consumption by output from the OECD Inter-Country Input-Output (ICIO) Tables and multiplying the result by 1 million for scaling purposes. CO₂ emission multipliers are calculated by multiplying the Leontief inverse (also known as output multipliers matrix) from the OECD Inter-Country Input-Output (ICIO) Tables by the CO₂ emission intensities.
+
+
+
+https://www.kaggle.com/datasets/prashant808/co2-emissions?select=_COE28282_Emissions2C_Emissions_Intensities2C_and_Emissions_Multipliers.csv
